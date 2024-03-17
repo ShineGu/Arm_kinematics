@@ -1,0 +1,25 @@
+Dependencies for Project 'ZL-KPZ32', Target 'Target 1': (DO NOT MODIFY !)
+F (..\user\z_main.c)(0x5DE66AFB)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\Libraries\src -I..\Libraries\inc -I..\user -I..\src -I..\Libraries\Startup-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o ..\obj\output\z_main.o --omf_browse ..\obj\output\z_main.crf --depend ..\obj\output\z_main.d)
+I (F:\W\ZL-KPZ\课程\ZL-KPZ控制板（32版）\例程1————LED信号灯的控制\user\z_main.h)(0x5DE66165)
+I (F:\W\ZL-KPZ\课程\ZL-KPZ控制板（32版）\例程1————LED信号灯的控制\user\z_setup.h)(0x5DE66165)
+I (F:\W\ZL-KPZ\课程\ZL-KPZ控制板（32版）\例程1————LED信号灯的控制\user\z_loop.h)(0x5DE660FC)
+F (..\user\z_setup.c)(0x5DE66AFB)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\Libraries\src -I..\Libraries\inc -I..\user -I..\src -I..\Libraries\Startup-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o ..\obj\output\z_setup.o --omf_browse ..\obj\output\z_setup.crf --depend ..\obj\output\z_setup.d)
+I (F:\W\ZL-KPZ\课程\ZL-KPZ控制板（32版）\例程1————LED信号灯的控制\user\z_setup.h)(0x5DE66165)
+F (..\user\z_loop.c)(0x5DE66AFB)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\Libraries\src -I..\Libraries\inc -I..\user -I..\src -I..\Libraries\Startup-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o ..\obj\output\z_loop.o --omf_browse ..\obj\output\z_loop.crf --depend ..\obj\output\z_loop.d)
+I (F:\W\ZL-KPZ\课程\ZL-KPZ控制板（32版）\例程1————LED信号灯的控制\user\z_loop.h)(0x5DE660FC)
+F (..\src\z_stm32f10x_it.c)(0x5DE661C7)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\Libraries\src -I..\Libraries\inc -I..\user -I..\src -I..\Libraries\Startup-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o ..\obj\output\z_stm32f10x_it.o --omf_browse ..\obj\output\z_stm32f10x_it.crf --depend ..\obj\output\z_stm32f10x_it.d)
+I (F:\W\ZL-KPZ\课程\ZL-KPZ控制板（32版）\例程1————LED信号灯的控制\src\z_stm32f10x_it.h)(0x509B4BC8)
+I (F:\W\ZL-KPZ\课程\ZL-KPZ控制板（32版）\例程1————LED信号灯的控制\Libraries\Startup\stm32f10x.h)(0x5DE6645A)
+I (F:\W\ZL-KPZ\课程\ZL-KPZ控制板（32版）\例程1————LED信号灯的控制\Libraries\Startup\core_cm3.h)(0x4EE57D14)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (F:\W\ZL-KPZ\课程\ZL-KPZ控制板（32版）\例程1————LED信号灯的控制\Libraries\Startup\system_stm32f10x.h)(0x4EE57D14)
+I (F:\W\ZL-KPZ\课程\ZL-KPZ控制板（32版）\例程1————LED信号灯的控制\src\z_stm32f10x_conf.h)(0x5DE66337)
+F (..\Libraries\Startup\core_cm3.c)(0x4EE57D14)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\Libraries\src -I..\Libraries\inc -I..\user -I..\src -I..\Libraries\Startup-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o ..\obj\output\core_cm3.o --omf_browse ..\obj\output\core_cm3.crf --depend ..\obj\output\core_cm3.d)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+F (..\Libraries\Startup\system_stm32f10x.c)(0x4EE57D14)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\Libraries\src -I..\Libraries\inc -I..\user -I..\src -I..\Libraries\Startup-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o ..\obj\output\system_stm32f10x.o --omf_browse ..\obj\output\system_stm32f10x.crf --depend ..\obj\output\system_stm32f10x.d)
+I (F:\W\ZL-KPZ\课程\ZL-KPZ控制板（32版）\例程1————LED信号灯的控制\Libraries\Startup\stm32f10x.h)(0x5DE6645A)
+I (F:\W\ZL-KPZ\课程\ZL-KPZ控制板（32版）\例程1————LED信号灯的控制\Libraries\Startup\core_cm3.h)(0x4EE57D14)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (F:\W\ZL-KPZ\课程\ZL-KPZ控制板（32版）\例程1————LED信号灯的控制\Libraries\Startup\system_stm32f10x.h)(0x4EE57D14)
+I (F:\W\ZL-KPZ\课程\ZL-KPZ控制板（32版）\例程1————LED信号灯的控制\src\z_stm32f10x_conf.h)(0x5DE66337)
+F (..\Libraries\Startup\startup_stm32f10x_hd.s)(0x4EE57D14)(--cpu Cortex-M3 -g --apcs=interwork -I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x--list ..\obj\listing\startup_stm32f10x_hd.lst --xref -o ..\obj\output\startup_stm32f10x_hd.o --depend ..\obj\output\startup_stm32f10x_hd.d)

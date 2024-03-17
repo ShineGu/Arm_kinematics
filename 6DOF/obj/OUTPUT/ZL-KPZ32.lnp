@@ -1,0 +1,20 @@
+--cpu Cortex-M3
+"..\obj\output\z_main.o"
+"..\obj\output\z_setup.o"
+"..\obj\output\z_loop.o"
+"..\obj\output\z_timer.o"
+"..\obj\output\z_delay.o"
+"..\obj\output\z_key.o"
+"..\obj\output\z_servo.o"
+"..\obj\output\z_stm32f10x_it.o"
+"..\obj\output\stm32f10x_rcc.o"
+"..\obj\output\stm32f10x_gpio.o"
+"..\obj\output\stm32f10x_tim.o"
+"..\obj\output\misc.o"
+"..\obj\output\core_cm3.o"
+"..\obj\output\system_stm32f10x.o"
+"..\obj\output\startup_stm32f10x_hd.o"
+--strict --scatter "..\obj\OUTPUT\ZL-KPZ32.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "..\obj\LISTING\ZL-KPZ32.map" -o ..\obj\OUTPUT\ZL-KPZ32.axf

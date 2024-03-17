@@ -1,0 +1,12 @@
+..\obj\output\z_stm32f10x_it.o: ..\src\z_stm32f10x_it.c
+..\obj\output\z_stm32f10x_it.o: ..\src\z_stm32f10x_it.h
+..\obj\output\z_stm32f10x_it.o: ..\Libraries\Startup\stm32f10x.h
+..\obj\output\z_stm32f10x_it.o: ..\Libraries\Startup\core_cm3.h
+..\obj\output\z_stm32f10x_it.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\output\z_stm32f10x_it.o: ..\Libraries\Startup\system_stm32f10x.h
+..\obj\output\z_stm32f10x_it.o: ..\src\z_stm32f10x_conf.h
+..\obj\output\z_stm32f10x_it.o: ..\Libraries\inc\stm32f10x_gpio.h
+..\obj\output\z_stm32f10x_it.o: ..\Libraries\Startup\stm32f10x.h
+..\obj\output\z_stm32f10x_it.o: ..\Libraries\inc\stm32f10x_rcc.h
+..\obj\output\z_stm32f10x_it.o: ..\Libraries\inc\stm32f10x_tim.h
+..\obj\output\z_stm32f10x_it.o: ..\Libraries\inc\misc.h

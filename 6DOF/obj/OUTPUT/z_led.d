@@ -1,0 +1,10 @@
+..\obj\output\z_led.o: ..\src\z_led.c
+..\obj\output\z_led.o: ..\src\z_led.h
+..\obj\output\z_led.o: ..\Libraries\Startup\stm32f10x.h
+..\obj\output\z_led.o: ..\Libraries\Startup\core_cm3.h
+..\obj\output\z_led.o: D:\Keil_v4\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\output\z_led.o: ..\Libraries\Startup\system_stm32f10x.h
+..\obj\output\z_led.o: ..\src\z_stm32f10x_conf.h
+..\obj\output\z_led.o: ..\Libraries\inc\stm32f10x_gpio.h
+..\obj\output\z_led.o: ..\Libraries\Startup\stm32f10x.h
+..\obj\output\z_led.o: ..\Libraries\inc\stm32f10x_rcc.h
